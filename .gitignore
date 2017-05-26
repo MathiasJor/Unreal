@@ -84,3 +84,5 @@ DerivedDataCache/*
 
 Content/StarterContent/Textures
 Content/StarterContent/HDRI
+
+*.DS_Store
